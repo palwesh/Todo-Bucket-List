@@ -14,9 +14,11 @@ project tech -
     
 
 
-'''Backend''' 
+      ****  Backend  **** 
 
 Fallow below steps for Run Backend Api -
+   
+   
     step 1 - create virtual env with python3
       # virtualenv -p python3 env
 
@@ -31,8 +33,10 @@ Fallow below steps for Run Backend Api -
       # python manage.py runserver
       
  go on this link
+    
     http://localhost:8000
     
-    for API
+ for API
+ 
     http://localhost:8000/api/
       
