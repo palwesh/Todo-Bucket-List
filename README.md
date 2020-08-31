@@ -24,6 +24,11 @@ Fallow below steps for Run Backend Api -
 
     step 2 - active virtual env 
       # source env/bin/activate
+            
+            and install requrement.txt
+            
+       # pip install -r requrement.txt
+      
       
     setp 3 - migrations
       # python manage.py makemigrations
